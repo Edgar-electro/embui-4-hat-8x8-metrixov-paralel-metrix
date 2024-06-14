@@ -1,0 +1,2 @@
+firmware bin    0x00000
+litlfs bin   0x200000
